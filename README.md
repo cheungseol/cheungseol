@@ -1,5 +1,8 @@
-### Hi there 👋
+[![header image](https://jeffjadulco.com/images/header-gradient.png)](https://jeffjadulco.com)
 
+
+### Hi there 👋
+Cancel Changes
 <!--
 **cheungseol/cheungseol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
